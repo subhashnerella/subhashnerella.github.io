@@ -123,14 +123,14 @@ h4, h5, h6 {
 
 a,
 h3.article-title a:hover {
-  color: #e0491f;
+  color: #0021A5;
   text-decoration: none;
   transition: color 0.6s ease;
 }
 
 a:hover,
 a:focus {
-  color: #e0491f;
+  color: #FA4616;
 }
 
 img,
@@ -180,7 +180,7 @@ figcaption h4 {
 pre,
 code {
   font-family: 'Roboto Mono', monospace;
-  color: #c7254e;
+  color: #FA4616;
   background-color: rgb(68, 71, 90);
 }
 
@@ -266,8 +266,8 @@ small,
 .search-hit em {
   font-style: normal;
   background-color: #FFE0B2;
-  color: #E65100;
-  border-bottom: 1px solid #E65100;
+  color: #0021A5;
+  border-bottom: 1px solid #FA4616;
 }
 
 .search-hit-type {
@@ -486,7 +486,7 @@ a[data-fancybox] img {
 .featurette-icon {
   display: block;
   width: 100%;
-  color: #e0491f;
+  color: #0021A5;
   font-size: 3rem;
   text-align: center;
 }
