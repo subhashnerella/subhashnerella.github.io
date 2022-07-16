@@ -180,7 +180,7 @@ figcaption h4 {
 pre,
 code {
   font-family: 'Roboto Mono', monospace;
-  color: #FA4616;
+  color: #0021A5;
   background-color: rgb(68, 71, 90);
 }
 
@@ -267,7 +267,7 @@ small,
   font-style: normal;
   background-color: #FFE0B2;
   color: #0021A5;
-  border-bottom: 1px solid #FA4616;
+  border-bottom: 1px solid #0021A5;
 }
 
 .search-hit-type {
